@@ -26,7 +26,7 @@ I enjoy solving Data Structure and Algorithm problems and strengthening problem-
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,github,vscode"/>
 
 </div>
 
@@ -39,27 +39,39 @@ I enjoy solving Data Structure and Algorithm problems and strengthening problem-
 <table>
 <tr>
 
-<td width="220" align="center">
+<td width="300" align="center" valign="middle">
 
-### Focus
+<br>
 
-Full Stack Development
+<h3>Focus</h3>
 
-</td>
+Building Full Stack Projects
 
-<td width="220" align="center">
-
-### Interests
-
-Data Structures and Problem Solving
+<br><br>
 
 </td>
 
-<td width="220" align="center">
+<td width="300" align="center" valign="middle">
 
-### Goal
+<br>
 
-Become a well-rounded developer
+<h3>Interests</h3>
+
+DSA • Problem Solving
+
+<br><br>
+
+</td>
+
+<td width="300" align="center" valign="middle">
+
+<br>
+
+<h3>Goal</h3>
+
+Ship useful products
+
+<br><br>
 
 </td>
 
@@ -67,6 +79,8 @@ Become a well-rounded developer
 </table>
 
 </div>
+
+</td>
 
 <br>
 
