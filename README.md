@@ -4,7 +4,7 @@
 
 Full Stack Developer in Progress | DSA Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&duration=3000&pause=1200&color=7AA2FF&center=true&vCenter=true&width=850&height=40&lines=Learning+Full+Stack+Development;Data+Structures+and+Algorithms;Building+through+Practice"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=36&duration=3000&pause=1200&color=7AA2FF&center=true&vCenter=true&width=1000&height=40&lines=Learning+Full+Stack+Development;Data+Structures+and+Algorithms;Building+through+Practice"/>
 
 </div>
 
@@ -72,9 +72,9 @@ Become a well-rounded developer
 
 <div align="center">
 
-## Commit Journey
+<h2 align="center">Contribution Activity</h2>
 
-<img src="./github-metrics.svg" width="100%"/>
+<img src="./github-metrics.svg?v=3" width="95%"/>
 
 <sub>Progress built one commit at a time.</sub>
 
