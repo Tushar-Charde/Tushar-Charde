@@ -28,9 +28,9 @@ I enjoy solving Data Structure and Algorithm problems and continuously learning 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TusharCharde1&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TusharCharde1&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCharde1&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TusharCharde1&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -39,6 +39,7 @@ I enjoy solving Data Structure and Algorithm problems and continuously learning 
 <img src="https://streak-stats.demolab.com?user=TusharCharde1&theme=github-dark&hide_border=true"/>
 
 </div>
+
 ## Connect
 
 <div align="center">
