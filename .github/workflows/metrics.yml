@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-      - "main"
+      - main
 
 jobs:
   github-metrics:
@@ -21,16 +21,15 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
 
           base: ""
 
-          template: classic
           config_timezone: Asia/Kolkata
 
           color_mode: dark
-          colors: github-dark
+          template: terminal
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
