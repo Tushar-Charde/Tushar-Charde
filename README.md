@@ -2,25 +2,18 @@
 
 # Tushar Charde
 
-Full Stack Developer in Progress • DSA Enthusiast • Problem Solver
+Aspiring Full Stack Developer | DSA Enthusiast
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Learning+through+building;C+%7C+C%2B%2B+%7C+Java+%7C+SQL;Data+Structures+and+Algorithms" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=C+%7C+C%2B%2B+%7C+Java+%7C+SQL;Learning+Full+Stack+Development;Data+Structures+and+Algorithms" />
 
 </div>
 
----
+## About
 
-### About
+I am an aspiring Full Stack Developer interested in building projects and improving my problem-solving skills.
+I enjoy solving Data Structure and Algorithm problems and continuously learning through practice and development.
 
-I am an aspiring Full Stack Developer passionate about learning, building projects, and improving problem-solving skills.
-
-I enjoy solving Data Structure and Algorithm problems and continuously working toward becoming a strong software developer.
-
----
-
-### Skills
+## Skills
 
 <div align="center">
 
@@ -31,42 +24,33 @@ I enjoy solving Data Structure and Algorithm problems and continuously working t
 
 </div>
 
----
-
-### Current Focus
-
-- Learning Full Stack Development  
-- Solving Data Structure and Algorithm problems  
-- Building projects with practical use cases  
-- Improving development fundamentals  
-
----
-
-### GitHub Statistics
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TusharCharde1&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCharde1&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=TusharCharde1&theme=github-dark&hide_border=true"/>
 
 </div>
+## Connect
 
----
+<div align="center">
 
-### Currently Working On
+<a href="https://www.linkedin.com/in/tushar-charde-93570a366/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ```java
 class Tushar {
-    String goal = "Become a Full Stack Developer";
 
     void dailyRoutine() {
         solveDSA();
